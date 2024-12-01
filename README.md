@@ -187,3 +187,5 @@ while True:
     else:
         print("Pilihan tidak valid!")
 ````
+
+![output](outputpemrogpert11.jpg)
